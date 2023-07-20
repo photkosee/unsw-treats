@@ -2,8 +2,8 @@
 > The source code is maintained on GitLab and could be published after 2025 due to UNSW policy. </br>
 Please reach out to me to review the code in person.
 
-This is a group project of 4 members building a web server for a communication platform with authentication, authorisation and various features.<br/>
-Maintained the quality of code by CI/CD.<br/>
+Worked with a team of 4 members building a web server for a communication platform with authentication, authorization, and various features.<br/>
+Maintained the quality of the code by CI/CD.<br/>
 The project was separated into 4 iterations<br/>
 
 ## Contents
