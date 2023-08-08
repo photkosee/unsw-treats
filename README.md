@@ -409,3 +409,6 @@ NOTE: For all routes which take `token` as a parameter, an <code>{ error: 'error
 
 ## Iteration 3
 - Deployed via Heroku (expired)
+
+![comminication_show](https://github.com/PhotKosee/team/assets/114990364/012e3be8-6f2a-404f-b01e-304a8c10f9ad)
+
