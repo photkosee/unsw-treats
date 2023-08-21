@@ -1,6 +1,6 @@
 # Communication Platform
-> The source code is maintained on GitLab and could be published after 2025 due to UNSW policy. </br>
-Please reach out to me to review the code in person.
+> The source code for backend is maintained on GitLab and could be published after 2025 due to UNSW policy. </br>
+Please contact me to review the code in person.
 
 Worked with a team of 4 members building a web server for a communication platform with authentication, authorization, and various features.<br/>
 Maintained the quality of the code by CI/CD.<br/>
