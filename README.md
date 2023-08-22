@@ -1,16 +1,18 @@
-# Communication Platform
+# UNSW Treats
 > The source code for backend is maintained on GitLab and could be published after 2025 due to UNSW policy. </br>
 Please contact me to review the code in person.
 
-Worked with a team of 4 members building a web server for a communication platform with authentication, authorization, and various features.<br/>
-Maintained the quality of the code by CI/CD.<br/>
-The project was separated into 4 iterations<br/>
-
 ## Contents
-1. [Iteration 0](#iteration-0-interface)
-2. [Iteration 1](#iteration-1-interface)
-3. [Iteration 2](#iteration-2-interface)
-4. [Iteration 3](#iteration-3)
+1. [Overview](#overview)
+2. [Iteration 0](#iteration-0-interface)
+3. [Iteration 1](#iteration-1-interface)
+4. [Iteration 2](#iteration-2-interface)
+5. [Iteration 3](#iteration-3)
+
+## Overview
+The task is to build the **backend Javascript server** for a new communication platform, **UNSW Treats**.
+
+**UNSW Treats** is the communication tool that allows you to share, communicate, and collaborate virtually.
 
 ## Iteration 0 Interface
 <table>
